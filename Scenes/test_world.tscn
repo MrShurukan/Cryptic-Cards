@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ce3y62agvffpc"]
+
+[node name="TestWorld" type="Node2D"]
+
+[node name="Welcome Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Welcome to the Test World, traveler!"
